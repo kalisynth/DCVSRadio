@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DCVSRadio</string>
+    <string name="PLAY">PLAY</string>
+    <string name="PAUSE">PAUSE</string>
+    <string name="STOP">STOP</string>
+</resources>
